@@ -1,0 +1,15 @@
+{
+    "gases": {
+        "success": true,
+        "message": "Factura consultada con exito",
+        "data": {
+            "nombreusuario": "GRACIELA PE¤ALOZA DE CABRERA",
+            "numerofactura": "0",
+            "valor": "8553",
+            "numerodocumento": "27575097",
+            "fechavencimiento": "23/10/2023",
+            "descripcionfactura": "Activa.",
+            "estadofactura": "01"
+        }
+    }
+}
