@@ -3,10 +3,10 @@
         "success": true,
         "message": "Factura consultada con exito",
         "data": {
-            "nombreusuario": "GRACIELA PE¤ALOZA DE CABRERA",
+            "nombreusuario": "Nombre Prueba",
             "numerofactura": "0",
-            "valor": "8553",
-            "numerodocumento": "27575097",
+            "valor": "10000",
+            "numerodocumento": "252525",
             "fechavencimiento": "23/10/2023",
             "descripcionfactura": "Activa.",
             "estadofactura": "01"
